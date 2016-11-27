@@ -1,0 +1,39 @@
+#Home{
+
+	height: 850px;
+	text-align: center;
+	padding-top: 5%;
+	color:black;
+	font-family:  "Homer Simpson", cursive;
+	background: url('computadoras.jpg') no-repeat center center fixed;
+}
+
+#About{
+
+	height: 850px;
+	text-align: center;
+	padding-top: 5%;
+	color:white;
+	font-family:  "Homer Simpson", cursive;
+	background: url('computer.jpg') no-repeat center center fixed;
+}
+
+#Portfolio{
+
+	height: 850px;
+	text-align: center;
+	padding-top: 5%;
+	color:white;
+	font-family:  "Homer Simpson", cursive;
+	background: url('robot.jpg') no-repeat center center fixed;
+}
+
+#contact{
+
+	height: 850px;
+	text-align: center;
+	padding-top: 5%;
+	color:white;
+	font-family:  "Homer Simpson", cursive;
+	background: url('contacto.jpg') no-repeat center center fixed;
+}
